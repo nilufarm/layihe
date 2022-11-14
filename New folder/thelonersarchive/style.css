@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://cdn.britannica.com/89/174689-050-794BDBA4/Plant-Flower-Aquatic-plant-Water-lily-Nymphaea.jpg');
+ }
+ a{
+     color: white;
+     text-decoration: none;
+     font-size: 30px;
+ }
+ .s{
+     font-size: 50px;
+     color: white;
+ }
+ .alt-tst{
+    display: flex;
+    justify-content: space-between;
+ }
+ .dbl-test a{
+     padding: 15px;
+  }
+  p{
+     display: flex;
+     justify-content: center;
+     margin-top: 200px;
+     
+ }
